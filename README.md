@@ -30,3 +30,6 @@ Significant variables to predict the demand for shared bikes
 - Year (2019)
 - Sunday
 - weathersit( Light Snow, Mist + Cloudy)
+
+## Contact
+Created by [chandel.ashutoshkumar@gmail.com] - feel free to contact me!
